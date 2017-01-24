@@ -7,3 +7,4 @@
 
 #### RV에서 Prores 재생
 - 슈퍼바이져가 RV에서 Prores를 재생하기 위한 지원.
+- 테스트환경 : macOS Sierra
