@@ -14,3 +14,4 @@ cd ~
 git clone https://github.com/didev/rv.git
 sh ~/rv/mio_ffmpeg.sh
 ```
+- 만약 RV실행시 다운되면 해당시스템에서 따로 컴파일 한다.
