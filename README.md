@@ -6,10 +6,9 @@
 - 라이센스는 디지털아이디어의 IT팀 지원을 받아 설치해주세요.
 
 #### RV에서 Prores 재생
-- 슈퍼바이져가 RV에서 Prores를 재생하기 위한 지원.
+- 슈퍼바이져가 RV에서 Prores 코덱이 재생되지 않으면 아래 단계를 실행한다.
 - 만약을 위해 오류가 있을 수 있으니 1차적으로 Xcode를 설치하게 한다.
-- 테스트환경 : macOS Sierra / 10.12.2
-- 설치방법
+- 설치방법(테스트 macOS Sierra 10.12.2)
 ```
 cd ~
 git clone https://github.com/didev/rv.git
