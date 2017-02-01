@@ -10,7 +10,7 @@
 #### OSX RV에서 Prores 코덱으로 인코딩된 mov 재생방법
 - 아래 방법을 따라하더라도 재생되지 않을 수 있습니다.
 - 만약을 위해 사용자 애플 계정으로 Xcode를 설치합니다.
-- 슈퍼바이져가 RV에서 Prores 코덱이 재생되지 않으면 아래 단계를 실행합니다.
+- 슈퍼바이져가 RV에서 Prores 코덱이 재생되지 않으면 터미널을 열고 아래 명령을 실행합니다.
 ```
 cd ~
 git clone https://github.com/didev/rv.git
