@@ -17,6 +17,6 @@ git clone https://github.com/didev/rv.git
 sh ~/rv/mio_ffmpeg.sh
 ```
 - 만약 RV 실행후 mov 재생시 RV 프로그램이 다운되면 해당시스템에서 필요한 파일을 컴파일 합니다.
-- 컴파일을 위해서 노트북을 R&D Pipeline Group으로 가지고 와주세요.
+- 컴파일을 위해서 노트북을 ICT Center Pipeline Group으로 가지고 와주세요.
 - 참고1 : 이 리포지터리에는 컴파일에 대한 이슈를 다루지 않습니다.
 - 참고2 : 테스트환경 macOS Sierra 10.12.2
