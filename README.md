@@ -3,9 +3,11 @@
 - 영화 및 드라마 현장에서 고생하는 슈퍼바이저의 지원을 위해 github에서 작성되고 있습니다.
 
 #### RV 설치
-- http://www.tweaksoftware.com/downloads
+- http://www.tweaksoftware.com/static/downloads/rv-mac-Intel_64-7.1.0.dmg
 - 위 사이트에서 RV 플레이어를 다운로드 받으세요.
 - 라이센스는 디지털아이디어의 IT팀 지원을 받아 설치해주세요.
+- 7.2 버전부터는 라이센스 갱신이 필요합니다.
+- 다운로드 링크 : http://www.tweaksoftware.com/downloads
 
 #### 설치전에..
 - 설명하는 방법을 따라하더라도 Prores가 재생되지 않을 수 있습니다.
